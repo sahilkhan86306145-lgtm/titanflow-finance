@@ -1,14 +1,10 @@
 export default function Home() {
   return (
-    <div style={{
-      display: "flex",
-      justifyContent: "center",
-      alignItems: "center",
-      height: "100vh",
-      fontSize: "24px",
-      fontWeight: "bold"
-    }}>
-      TITANFLOWFINANCE 🚀
-    </div>
+    <main style={{padding: "20px", fontFamily: "sans-serif"}}>
+      <h1>🔥 Titanflow Finance</h1>
+      <p>Site is working ✅</p>
+
+      <a href="/dashboard">Go to Dashboard</a>
+    </main>
   );
 }
