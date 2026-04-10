@@ -1,3 +1,3 @@
 export default function KYC() {
-  return <div>KYC 📄</div>;
+  return <h1>🪪 KYC Page</h1>;
 }
