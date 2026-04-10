@@ -1,3 +1,3 @@
 export default function Deposit() {
-  return <div>Deposit 💰</div>;
-}
+  return <h1>💰 Deposit Page</h1>;
+}s
